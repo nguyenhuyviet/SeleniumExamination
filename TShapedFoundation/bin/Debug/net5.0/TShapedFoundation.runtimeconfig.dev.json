@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\skywalker\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\skywalker\\.nuget\\packages"
+    ]
+  }
+}
